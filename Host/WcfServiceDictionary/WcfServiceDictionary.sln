@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceDictionary", "WcfServiceDictionary.csproj", "{039D78E4-4230-4169-9BBA-1BE1C47C0A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceHostRsi3", "..\WcfServiceHostRsi3\WcfServiceHostRsi3.csproj", "{4EAFC05A-7F98-4650-8859-436AFEC12C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039D78E4-4230-4169-9BBA-1BE1C47C0A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039D78E4-4230-4169-9BBA-1BE1C47C0A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039D78E4-4230-4169-9BBA-1BE1C47C0A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039D78E4-4230-4169-9BBA-1BE1C47C0A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EAFC05A-7F98-4650-8859-436AFEC12C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAFC05A-7F98-4650-8859-436AFEC12C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAFC05A-7F98-4650-8859-436AFEC12C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAFC05A-7F98-4650-8859-436AFEC12C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E1DD30-CE93-41CB-AB23-5F87E242904F}
+	EndGlobalSection
+EndGlobal
